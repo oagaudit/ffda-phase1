@@ -1,0 +1,2 @@
+ขอบเขตจังหวัด/อำเภอ/ตำบล: OpenGISData-Thailand (https://github.com/chingchai/OpenGISData-Thailand)
+สัญญาอนุญาต CC BY 4.0 — ปรับลดรายละเอียดเส้นด้วย mapshaper เพื่อการแสดงผล
